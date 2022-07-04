@@ -22,4 +22,4 @@
 - 자동 립싱크 생성
 
 # 평가지표
-## Character Error Rate (CER)
+- Character Error Rate (CER)
